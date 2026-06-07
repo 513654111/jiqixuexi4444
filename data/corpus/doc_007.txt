@@ -1,0 +1,1 @@
+VPN setup: Use company client + RSA token. Additional details for doc 7.
